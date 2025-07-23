@@ -1,5 +1,8 @@
 body{
-    background-color: white;
+    background-image:url(cybersecurity-bs.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     color: white;
@@ -49,7 +52,15 @@ h1 spam{
     
 
 }
+#clear-btn {
+    border-radius: 6px;
+    background-color: #10B981;
+    color: white;
+    padding:14px;
+    margin: 12px 12px;
+    width: 180px;
 
+}
 .password-section{
     display: flex;
     justify-content: center;
